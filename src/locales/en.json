@@ -52,696 +52,413 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Raise The Biggest Family Gameplay",
+    "description": "Adopt babies, pass adoption interviews, earn Apples, and watch your family keep growing even while you are offline in this Roblox family simulator."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Raise The Biggest Family",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need to adopt, earn Apples, and grow the biggest family on Roblox",
     "cards": [
       {
         "icon": "BookOpen",
         "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "description": "Core gameplay loop, first adoption, and early Apples"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Ticket",
+        "title": "Codes",
+        "description": "Current code status and how to check for new releases"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Apple",
+        "title": "Get Apples Fast",
+        "description": "Earning routes, spending priorities, and reserves"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "HeartHandshake",
+        "title": "Adoption & Growth",
+        "description": "Approval, interviews, and family expansion"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Baby",
+        "title": "Family Go",
+        "description": "Activities, household management, and objectives"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Lightbulb",
+        "title": "Strategies",
+        "description": "Beginner to advanced progression priorities"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Trophy",
+        "title": "Milestones",
+        "description": "Family size goals and progression tracking"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Megaphone",
+        "title": "Updates",
+        "description": "New features, activities, and game changes"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+    "familyBeginnerGuide": {
+      "title": "Raise The Biggest Family Beginner Guide",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "eyebrow": "Beginner Guide",
+      "subtitle": "Learn the core gameplay loop from your first login to a growing household. Follow the early priorities to adopt family members efficiently and avoid wasting Apples.",
+      "intro": "Raise The Biggest Family centers on building a household through adoption, Apple management, and steady family growth. Start by learning the basic controls, complete the first available actions, use Apples on family expansion, and repeat the cycle as your household becomes larger.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Start playing and learn the main interface",
+          "description": "Join the game, locate the areas used for family management and adoption, and identify where your Apple balance and household information are displayed.",
+          "goals": [
+            "Find the Apple currency counter",
+            "Open the family or household management interface",
+            "Locate the adoption area or adoption interaction"
+          ]
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Adopt your first family member",
+          "description": "Use the available adoption interaction to add the first member to your household. Follow the on-screen requirement before confirming the adoption.",
+          "goals": [
+            "Check the current adoption requirement",
+            "Confirm the first available adoption",
+            "Return to the household interface to view the new member"
+          ]
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Earn Apples before spending heavily",
+          "description": "Apples are the main progression currency in the game. Build an initial balance through the available gameplay actions before committing to larger household expenses.",
+          "goals": [
+            "Keep enough Apples for the next adoption",
+            "Repeat the basic earning loop",
+            "Avoid spending the entire balance on optional actions"
+          ]
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Grow the household in a steady cycle",
+          "description": "The basic progression loop is to earn Apples, meet adoption requirements, add a family member, and continue earning with the larger household.",
+          "goals": [
+            "Earn Apples",
+            "Adopt another family member",
+            "Review household growth after each adoption"
+          ]
+        },
+        {
+          "title": "Avoid common beginner mistakes",
+          "description": "New players progress more consistently when they prioritize the next adoption and learn the core loop before spending resources on secondary features.",
+          "goals": []
         }
       ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+      "mistakes": [
+        "Spending all Apples before checking adoption requirements",
+        "Ignoring the household management screen",
+        "Adopting without planning for the next Apple cost",
+        "Skipping the basic earning loop"
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+    "familyCodes": {
+      "title": "Raise The Biggest Family Codes",
+      "displayType": "codeCards",
+      "eyebrow": "Codes",
+      "subtitle": "There are currently no working redemption codes for the game. Use the in-game interface and official game announcements to check for future code releases.",
+      "intro": "Code availability can change when the developer adds a redemption feature or publishes a promotional code. At present, no working codes are listed, so check the game interface for an active redemption option instead of relying on unofficial code lists.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "status": "Not Active",
+          "title": "No working codes right now",
+          "code": "—",
+          "reward": "No reward currently available",
+          "availability": "Not active",
+          "details": "No working Raise The Biggest Family redemption code is available at the moment. This page tracks the current code status for the game."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "status": "Expired",
+          "title": "Expired code history",
+          "code": "—",
+          "reward": "No expired code names available",
+          "availability": "Expired or unavailable",
+          "details": "No specific expired code is listed because no code name or reward has ever been released for the game so far."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "status": "How to Check",
+          "title": "How to check for new codes",
+          "code": "In-game redemption menu",
+          "reward": "Potential future Apples or promotional rewards",
+          "availability": "Check when the feature appears",
+          "details": "Open the game interface and look for a dedicated Codes, Redeem, or similar redemption option. If the option becomes available, enter codes exactly as published and submit them through the in-game form."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "status": "Announcements",
+          "title": "Where to watch for announcements",
+          "code": "Official game announcements",
+          "reward": "Event or update rewards",
+          "availability": "Update dependent",
+          "details": "Check announcements connected to the game for new events, updates, or redemption instructions before attempting a code."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
+    "familyApplesFast": {
+      "title": "Raise The Biggest Family How to Get Apples Fast",
+      "displayType": "steps",
+      "eyebrow": "Currency Guide",
+      "subtitle": "Use Apples efficiently by repeating the core earning loop and saving for household growth. This guide compares the safest early priorities for new players.",
+      "intro": "Apples are the in-game currency used to support progression through the family-building loop. The most reliable early approach is to earn first, check the next adoption requirement, and spend only when the purchase directly supports adding another family member.",
+      "steps": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "title": "Repeat the core Apple-earning actions",
+          "description": "Begin with the standard gameplay actions available in the game and repeat them until you have enough Apples for the next planned household upgrade.",
+          "bestFor": "Starting players",
+          "priority": "Build a reserve before spending"
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "title": "Save for the next adoption",
+          "description": "Check the adoption requirement before using Apples elsewhere. Keeping the next adoption affordable prevents progress from stalling after a single purchase.",
+          "bestFor": "Fast household growth",
+          "priority": "Adoption before optional spending"
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "title": "Use the household loop instead of spending randomly",
+          "description": "A productive cycle is to earn Apples, confirm the next family requirement, adopt a member, and return to Apple earning. This keeps each spending decision tied to progression.",
+          "bestFor": "Consistent progression",
+          "priority": "Spend with a clear next step"
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "title": "Review your balance after every purchase",
+          "description": "After adopting or using Apples, check the remaining balance and determine whether another earning session is needed before the next action.",
+          "bestFor": "Avoiding resource shortages",
+          "priority": "Maintain a usable reserve"
+        },
+        {
+          "title": "Do not waste Apples on unplanned actions",
+          "description": "Early players should avoid purchases that delay adoption or reduce the balance below the amount needed for the next household-growth step.",
+          "bestFor": "Efficient early-game play",
+          "priority": "Protect progression currency"
         }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+    "familyAdoptionGrowth": {
+      "title": "Raise The Biggest Family Adoption & Family Growth Guide",
+      "displayType": "cardList",
+      "eyebrow": "Family Growth",
+      "subtitle": "Understand the adoption loop, manage new family members, and connect household growth to overall progression.",
+      "intro": "Adoption is the central way to expand the family in Raise The Biggest Family. Players use the available adoption interaction, meet the displayed requirement, and add new members to the household. Each successful adoption advances the family-growth loop and creates a new target for Apple earning.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "tag": "Requirement",
+          "title": "Check the displayed adoption requirement",
+          "description": "Before confirming an adoption, review the requirement shown by the game. Keep the necessary Apples or other displayed conditions ready before starting the transaction.",
+          "list": [
+            "Adoption is part of the family-growth progression",
+            "The game displays requirements for available adoption actions",
+            "Apples are part of the progression economy"
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "tag": "Adoption",
+          "title": "Complete the adoption interaction",
+          "description": "Move to the available adoption location or interface, select the family member option presented by the game, and confirm the action after meeting the requirement.",
+          "list": [
+            "Players can add family members through adoption",
+            "Adoption increases the size of the household"
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "tag": "Management",
+          "title": "Review and manage the household",
+          "description": "After each adoption, open the family or household view to confirm the new member and understand how the larger household affects your next progression objective.",
+          "list": [
+            "Confirm the new family member",
+            "Review the current household size",
+            "Plan the next Apple-earning cycle",
+            "Check the next available adoption requirement"
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
+          "tag": "Growth Loop",
+          "title": "Repeat the family-growth cycle",
+          "description": "Continue by earning Apples, meeting the next adoption requirement, adding another family member, and reviewing the household after each successful expansion.",
+          "list": [
+            "Earn Apples",
+            "Check adoption requirements",
+            "Adopt a family member",
+            "Review household growth"
           ]
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "tag": "In-Game Options",
+          "title": "Use the live game interface for additional options",
+          "description": "The adoption screen and household interface are the source for the currently available family options, requirements, and management actions. Use the options shown in-game when planning further growth.",
+          "list": [
+            "Available family member options",
+            "Current adoption cost or requirement",
+            "Household management controls",
+            "Next family-growth objective"
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+    "familyGoGuide": {
+      "title": "Raise The Biggest Family Family Go Guide",
+      "displayType": "steps",
+      "eyebrow": "Family Go",
+      "subtitle": "Use Family Go to manage your household, complete family activities, and build progress through the game's family-focused systems.",
+      "intro": "Family Go is the central gameplay flow for organizing family activities and working toward a larger household. Follow the available in-game prompts, choose activities that match your current goals, and use Apples as the main progression resource when the game presents them as a requirement.",
+      "steps": [
+        {
+          "title": "Open the Family Go system",
+          "description": "Launch Raise The Biggest Family and enter the Family Go interface from the available game menu or interaction point. Review the family members, activities, and objectives currently presented on screen.",
+          "actions": [
+            "Open the game's Family Go access point",
+            "Review the current family roster and available activities",
+            "Check whether an activity requires Apples or another displayed condition before starting it"
+          ]
+        },
+        {
+          "title": "Choose a family activity",
+          "description": "Select an activity that supports your immediate objective, such as earning or using Apples, progressing the family, or completing an available family task.",
+          "actions": [
+            "Prioritize activities that directly match your current objective",
+            "Confirm the displayed cost or requirement before committing resources",
+            "Complete the activity through the on-screen interaction flow"
+          ]
+        },
+        {
+          "title": "Use Apples to support progression",
+          "description": "Apples are a core resource in the game's progression loop. Collect or spend them according to the requirements shown by the current activity, family action, or progression prompt.",
+          "actions": [
+            "Keep enough Apples available for the next family-related action",
+            "Avoid spending Apples on optional actions when a required progression step is available",
+            "Recheck the Family Go interface after completing an Apple-related activity"
+          ]
+        },
+        {
+          "title": "Complete objectives and expand the household",
+          "description": "Continue clearing available family objectives and follow the progression prompts that appear as your household develops. Family Go progress is reflected through the family roster and the next available actions.",
+          "actions": [
+            "Complete currently available family objectives",
+            "Review newly unlocked or newly displayed activities",
+            "Track changes to household size and progression directly in the game interface"
+          ]
+        }
+      ]
+    },
+    "familyStrategies": {
+      "title": "Raise The Biggest Family Best Strategies & Progression",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+      "eyebrow": "Progression Strategy",
+      "subtitle": "Manage Apples carefully, focus on the most useful activities, and adjust your priorities as your household becomes larger.",
+      "intro": "Efficient progression comes from choosing activities that support your current family objective instead of spending resources without a clear purpose. The following strategy stages organize practical decisions for every stage of your household.",
+      "stages": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "stage": "Beginner",
+          "title": "Learn the core Family Go loop",
+          "summary": "Start by understanding how family actions, activities, and Apples connect.",
+          "details": [
+            "Open Family Go and inspect every currently available activity",
+            "Complete the clearest available objective before spending Apples on optional actions",
+            "Use the interface to identify which actions directly affect family progression",
+            "Keep a small Apple reserve so a required action is not delayed"
+          ]
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "stage": "Intermediate",
+          "title": "Prioritize activities by immediate value",
+          "summary": "Choose activities that advance a current objective or improve access to the next progression step.",
+          "details": [
+            "Compare the displayed Apple cost with the activity's stated purpose",
+            "Choose family-related progress over actions that do not support your current goal",
+            "Revisit Family Go after completing an activity to check for newly available options",
+            "Track household changes so you know whether an action contributed to family expansion"
+          ]
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "stage": "Advanced",
+          "title": "Plan around household growth",
+          "summary": "At later stages, organize actions around the next family-size goal and avoid unnecessary resource spending.",
+          "details": [
+            "Identify the next visible family progression requirement before selecting an activity",
+            "Reserve Apples for actions that are clearly connected to that requirement",
+            "Use lower-cost or readily available activities when rebuilding your resource supply",
+            "Review the full family roster regularly and adjust your priorities as the household grows"
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
+    "familySizeMilestones": {
+      "title": "Raise The Biggest Family Family Size & Progression Milestones",
+      "displayType": "table",
+      "eyebrow": "Household Progress",
+      "subtitle": "Track household growth through the family roster and use visible objectives to identify the next progression target.",
+      "intro": "Family size progression is tracked through the household shown in the game. Complete available Family Go activities, meet the requirements displayed by the current objective, and check the roster after each major action to keep your household moving toward the next milestone.",
+      "rows": [
+        {
+          "milestone": "Starting household",
+          "requirement": "Begin the game and access the family interface.",
+          "goal": "Learn the current family roster and identify the first available Family Go objective.",
+          "tracking": "Check the household display and available actions in-game."
+        },
+        {
+          "milestone": "Early household growth",
+          "requirement": "Complete the available early family activities and any displayed progression conditions.",
+          "goal": "Move from the initial household setup toward the next visible family-size objective.",
+          "tracking": "Review the family roster after completing activities and resource-related actions."
+        },
+        {
+          "milestone": "Larger family progression",
+          "requirement": "Continue completing Family Go objectives and satisfy the requirements shown for household expansion.",
+          "goal": "Maintain enough Apples and complete the activities needed for the next family-growth step.",
+          "tracking": "Use the current objective, family roster, and activity requirements as the progress checklist."
+        },
+        {
+          "milestone": "Maximum family size",
+          "requirement": "Follow the highest household objective the game currently displays.",
+          "goal": "Continue growing your household toward the biggest family the game allows.",
+          "tracking": "The visible roster and in-game progression prompts show the current limits."
+        }
+      ]
+    },
+    "familyUpdates": {
+      "title": "Raise The Biggest Family Updates & New Features",
       "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "eyebrow": "Game Updates",
+      "subtitle": "Review the main feature areas to monitor as Family Go, family activities, and Apple progression develop.",
+      "intro": "The Roblox game page is the official reference for Raise The Biggest Family. This overview is organized around the game systems players should monitor in the live experience, from Family Go activities to Apple progression and household management.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "sequence": 1,
+          "title": "Family Go feature area",
+          "date": "Current game experience",
+          "summary": "Family Go provides the main interface for family activities, household management, and progression objectives.",
+          "items": [
+            "New or changed family activities",
+            "Changes to the available objective flow",
+            "Updates to how household progress is displayed"
+          ]
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "sequence": 2,
+          "title": "Apple progression feature area",
+          "date": "Current game experience",
+          "summary": "Apples remain a central resource to monitor when activities present collection, spending, or progression requirements.",
+          "items": [
+            "New ways to collect Apples",
+            "Changes to Apple costs shown by activities",
+            "New family objectives that use Apples"
+          ]
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "sequence": 3,
+          "title": "Family activity feature area",
+          "date": "Current game experience",
+          "summary": "Family activities determine how players interact with the household and work toward larger-family progression.",
+          "items": [
+            "New activity categories",
+            "Changes to activity requirements",
+            "Additional progression prompts after activities are completed"
+          ]
         }
       ]
     }
@@ -749,31 +466,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Raise The Biggest Family",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Raise The Biggest Family?",
+        "answer": "Raise The Biggest Family is a free Roblox family adoption and life simulator by Novkod X Level0Expert. You adopt babies, take care of them, and grow your household - and your children keep growing even while you are offline."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I adopt a baby in Raise The Biggest Family?",
+        "answer": "Get the adoption approval, head to the adoption center, pass the interview, and bring your child home. The full walkthrough is in the Adoption & Family Growth Guide above."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What are Apples used for in Raise The Biggest Family?",
+        "answer": "Apples are the main currency. You earn them through gameplay actions and spend them on family expansion and household progression, so keeping a reserve is the key to steady growth."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Do children grow while offline in Raise The Biggest Family?",
+        "answer": "Yes. Kids continue to grow while you are away, so your family keeps making progress between play sessions without any extra input."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Are there working Raise The Biggest Family codes?",
+        "answer": "There are currently no working codes for Raise The Biggest Family. Check the in-game interface and official announcements for future code releases, and never trust unofficial code lists."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What is Family Go in Raise The Biggest Family?",
+        "answer": "Family Go is the game's family-focused mode for organizing activities, managing your household, and working toward a bigger family. See the Family Go Guide above for the full walkthrough."
       }
     ]
   },
