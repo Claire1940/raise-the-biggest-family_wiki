@@ -1,47 +1,71 @@
 {
-  "categories": [
-    {
-      "category": "Guides",
-      "keywords": [
-        "lucid blocks guide"
-      ]
-    },
-    {
-      "category": "Crafting",
-      "keywords": [
-        "lucid blocks crafting recipes",
-        "lucid blocks apotheosis"
-      ]
-    },
-    {
-      "category": "Items",
-      "keywords": [
-        "lucid blocks faith wand",
-        "lucid blocks bee glider",
-        "lucid blocks chest",
-        "lucid blocks osmium"
-      ]
-    },
-    {
-      "category": "Biomes",
-      "keywords": [
-        "lucid blocks tiamana leyline"
-      ]
-    },
-    {
-      "category": "Building",
-      "keywords": [
-        "lucid blocks qualia"
-      ]
-    },
-    {
-      "category": "Support",
-      "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks full screen",
-        "lucid blocks multiplayer",
-        "lucid blocks android"
-      ]
-    }
-  ]
+    "categories": [
+        {
+            "category": "guide",
+            "keywords": [
+                "Raise The Biggest Family beginner guide",
+                "Raise The Biggest Family how to play",
+                "Raise The Biggest Family tips and tricks",
+                "Raise The Biggest Family how to grow your family",
+                "Raise The Biggest Family how to get a bigger family",
+                "Raise The Biggest Family progression guide"
+            ]
+        },
+        {
+            "category": "adoption",
+            "keywords": [
+                "Raise The Biggest Family how to adopt",
+                "Raise The Biggest Family adoption guide",
+                "Raise The Biggest Family how to get more kids",
+                "Raise The Biggest Family how to adopt more children",
+                "Raise The Biggest Family adoption requirements",
+                "Raise The Biggest Family family size limit"
+            ]
+        },
+        {
+            "category": "apples",
+            "keywords": [
+                "Raise The Biggest Family how to get apples",
+                "Raise The Biggest Family how to earn apples fast",
+                "Raise The Biggest Family what are apples used for",
+                "Raise The Biggest Family best ways to spend apples",
+                "Raise The Biggest Family apple farming guide"
+            ]
+        },
+        {
+            "category": "family",
+            "keywords": [
+                "Raise The Biggest Family family go mode",
+                "Raise The Biggest Family how to unlock family go",
+                "Raise The Biggest Family family go rewards",
+                "Raise The Biggest Family family upgrades",
+                "Raise The Biggest Family how to increase family capacity"
+            ]
+        },
+        {
+            "category": "codes",
+            "keywords": [
+                "Raise The Biggest Family codes"
+            ]
+        },
+        {
+            "category": "houses",
+            "keywords": [
+                "Raise The Biggest Family house guide",
+                "Raise The Biggest Family how to get a bigger house",
+                "Raise The Biggest Family house upgrades",
+                "Raise The Biggest Family how to build a house",
+                "Raise The Biggest Family best house for large families"
+            ]
+        },
+        {
+            "category": "updates",
+            "keywords": [
+                "Raise The Biggest Family update",
+                "Raise The Biggest Family new features",
+                "Raise The Biggest Family latest update",
+                "Raise The Biggest Family upcoming updates"
+            ]
+        }
+    ]
 }

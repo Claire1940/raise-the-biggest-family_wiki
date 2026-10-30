@@ -1,1 +1,667 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Raise The Biggest Family Wiki - Codes, Adopción y Apples",
+      "description": "Explora la Wiki de Raise The Biggest Family con guías de adopción, consejos de cuidado de bebés, farmeo de Apples, modo Family Go, crecimiento sin conexión,",
+      "keywords": "Raise The Biggest Family, Roblox, codes, adopción, bebés, Apples, Family Go, guía",
+      "ogTitle": "Raise The Biggest Family Wiki - Codes, Adopción y Apples",
+      "ogDescription": "¡Adopta bebés, crea la familia de tus sueños y observa cómo tus hijos crecen incluso sin conexión! Guías de adopción, cuidado de bebés, Apples, Family Go y más para el simulador familiar de Roblox.",
+      "twitterTitle": "Raise The Biggest Family Wiki - Codes, Adopción y Apples",
+      "twitterDescription": "Guías de adopción, consejos de cuidado de bebés, farmeo de Apples, modo Family Go, crecimiento sin conexión y estado de los codes para el juego de Roblox Raise The Biggest Family."
+    }
+  },
+  "nav": {
+    "guide": "Guía",
+    "adoption": "Adopción",
+    "apples": "Apples",
+    "family": "Familia",
+    "codes": "Codes",
+    "houses": "Casas",
+    "updates": "Actualizaciones"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Simulador de Adopción y Vida Familiar",
+    "title": "Raise The Biggest Family Wiki",
+    "description": "¡Adopta bebés, crea la familia de tus sueños y observa cómo tus hijos crecen incluso sin conexión!",
+    "getFreeCodesCTA": "Ver codes",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "2.9M+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "24.4K",
+        "label": "Jugadores en pico"
+      },
+      "stat3": {
+        "value": "72%",
+        "label": "Valoraciones positivas"
+      },
+      "stat4": {
+        "value": "18",
+        "label": "Jugadores por servidor"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Raise The Biggest Family",
+    "description": "Adopta bebés, supera las entrevistas de adopción, gana Apples y observa cómo tu familia sigue creciendo incluso cuando no estás conectado en este simulador"
+  },
+  "tools": {
+    "title": "Raise The Biggest Family",
+    "titleHighlight": "Recursos",
+    "subtitle": "Todo lo que necesitas para adoptar, ganar Apples y criar a la familia más grande de Roblox",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Guía para principiantes",
+        "description": "Bucle de juego básico, primera adopción y Apples iniciales"
+      },
+      {
+        "icon": "Ticket",
+        "title": "Codes",
+        "description": "Estado actual de los codes y cómo verificar nuevos lanzamientos"
+      },
+      {
+        "icon": "Apple",
+        "title": "Consigue Apples rápido",
+        "description": "Rutas de ganancias, prioridades de gasto y reservas"
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Adopción y crecimiento",
+        "description": "Aprobación, entrevistas y expansión familiar"
+      },
+      {
+        "icon": "Baby",
+        "title": "Family Go",
+        "description": "Actividades, gestión del hogar y objetivos"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Estrategias",
+        "description": "Prioridades de progresión de principiante a avanzado"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Hitos",
+        "description": "Metas de tamaño familiar y seguimiento del progreso"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Actualizaciones",
+        "description": "Nuevas funciones, actividades y cambios del juego"
+      }
+    ]
+  },
+  "modules": {
+    "familyBeginnerGuide": {
+      "title": "Guía para principiantes de Raise The Biggest Family",
+      "displayType": "steps",
+      "eyebrow": "Guía para principiantes",
+      "subtitle": "Aprende el bucle de juego básico desde tu primer inicio de sesión hasta un hogar en crecimiento. Sigue las prioridades tempranas para adoptar miembros de la familia con eficiencia y no desperdiciar Apples.",
+      "intro": "Raise The Biggest Family se centra en construir un hogar mediante la adopción, la gestión de Apples y un crecimiento familiar constante. Empieza aprendiendo los controles básicos, completa las primeras acciones disponibles, usa Apples en la expansión familiar y repite el ciclo a medida que tu hogar crece.",
+      "steps": [
+        {
+          "title": "Empieza a jugar y aprende la interfaz principal",
+          "description": "Únete al juego, localiza las zonas usadas para la gestión familiar y la adopción, e identifica dónde se muestran tu saldo de Apples y la información del hogar.",
+          "goals": [
+            "Encuentra el contador de la moneda Apples",
+            "Abre la interfaz de gestión familiar o del hogar",
+            "Localiza la zona de adopción o la interacción de adopción"
+          ]
+        },
+        {
+          "title": "Adopta a tu primer miembro de la familia",
+          "description": "Usa la interacción de adopción disponible para añadir al primer miembro a tu hogar. Sigue los requisitos en pantalla antes de confirmar la adopción.",
+          "goals": [
+            "Comprueba el requisito de adopción actual",
+            "Confirma la primera adopción disponible",
+            "Vuelve a la interfaz del hogar para ver al nuevo miembro"
+          ]
+        },
+        {
+          "title": "Gana Apples antes de gastar en grande",
+          "description": "Las Apples son la moneda principal de progresión del juego. Crea un saldo inicial con las acciones de juego disponibles antes de comprometerte con gastos",
+          "goals": [
+            "Guarda suficientes Apples para la próxima adopción",
+            "Repite el bucle básico de ganancias",
+            "Evita gastar todo el saldo en acciones opcionales"
+          ]
+        },
+        {
+          "title": "Haz crecer el hogar en un ciclo constante",
+          "description": "El bucle básico de progresión consiste en ganar Apples, cumplir los requisitos de adopción, añadir un miembro a la familia y seguir ganando con un hogar más",
+          "goals": [
+            "Gana Apples",
+            "Adopta a otro miembro de la familia",
+            "Revisa el crecimiento del hogar tras cada adopción"
+          ]
+        },
+        {
+          "title": "Evita los errores comunes de principiante",
+          "description": "Los jugadores nuevos progresan de forma más constante cuando priorizan la próxima adopción y aprenden el bucle básico antes de gastar recursos en funciones",
+          "goals": []
+        }
+      ],
+      "mistakes": [
+        "Gastar todas las Apples antes de comprobar los requisitos de adopción",
+        "Ignorar la pantalla de gestión del hogar",
+        "Adoptar sin planificar el próximo coste en Apples",
+        "Saltarse el bucle básico de ganancias"
+      ]
+    },
+    "familyCodes": {
+      "title": "Codes de Raise The Biggest Family",
+      "displayType": "codeCards",
+      "eyebrow": "Codes",
+      "subtitle": "Actualmente no hay codes de canje activos para el juego. Usa la interfaz del juego y los anuncios oficiales para comprobar futuros lanzamientos de codes.",
+      "intro": "La disponibilidad de codes puede cambiar cuando el desarrollador añade una función de canje o publica un código promocional. Por ahora no se列出 ningún code activo, así que comprueba la interfaz del juego en busca de una opción de canje activa en lugar de fiarte de listas no oficiales.",
+      "cards": [
+        {
+          "status": "No activo",
+          "title": "No hay codes activos ahora mismo",
+          "code": "—",
+          "reward": "Ninguna recompensa disponible actualmente",
+          "availability": "No activo",
+          "details": "Actualmente no hay ningún code de canje de Raise The Biggest Family que funcione. Esta página sigue el estado actual de los codes del juego."
+        },
+        {
+          "status": "Expirado",
+          "title": "Historial de codes expirados",
+          "code": "—",
+          "reward": "No hay nombres de codes expirados disponibles",
+          "availability": "Expirado o no disponible",
+          "details": "No se incluye ningún code expirado específico porque hasta ahora nunca se ha publicado un nombre de code ni una recompensa para el juego."
+        },
+        {
+          "status": "Cómo comprobar",
+          "title": "Cómo comprobar si hay nuevos codes",
+          "code": "Menú de canje dentro del juego",
+          "reward": "Posibles Apples futuras o recompensas promocionales",
+          "availability": "Comprueba cuando aparezca la función",
+          "details": "Abre la interfaz del juego y busca una opción dedicada de Codes, Canjear o similar. Si la opción está disponible, introduce los codes exactamente como se publican y envíalos mediante el formulario del juego."
+        },
+        {
+          "status": "Anuncios",
+          "title": "Dónde estar atento a los anuncios",
+          "code": "Anuncios oficiales del juego",
+          "reward": "Recompensas de eventos o actualizaciones",
+          "availability": "Depende de las actualizaciones",
+          "details": "Comprueba los anuncios relacionados con el juego para conocer nuevos eventos, actualizaciones o instrucciones de canje antes de intentar un code."
+        }
+      ]
+    },
+    "familyApplesFast": {
+      "title": "Raise The Biggest Family Cómo conseguir Apples rápido",
+      "displayType": "steps",
+      "eyebrow": "Guía de moneda",
+      "subtitle": "Usa las Apples con eficiencia repitiendo el bucle básico de ganancias y ahorrando para el crecimiento del hogar. Esta guía compara las prioridades tempranas más seguras para jugadores nuevos.",
+      "intro": "Las Apples son la moneda del juego usada para avanzar en el bucle de construcción familiar. El enfoque temprano más fiable es ganar primero, comprobar el próximo requisito de adopción y gastar solo cuando la compra contribuye directamente a añadir otro miembro a la familia.",
+      "steps": [
+        {
+          "title": "Repite las acciones básicas para ganar Apples",
+          "description": "Empieza con las acciones de juego estándar disponibles y repítelas hasta tener suficientes Apples para la próxima mejora planificada del hogar.",
+          "bestFor": "Jugadores que empiezan",
+          "priority": "Crea una reserva antes de gastar"
+        },
+        {
+          "title": "Ahorra para la próxima adopción",
+          "description": "Comprueba el requisito de adopción antes de usar Apples en otra cosa.",
+          "bestFor": "Crecimiento rápido del hogar",
+          "priority": "Adopción antes de gastos opcionales"
+        },
+        {
+          "title": "Usa el bucle del hogar en lugar de gastar al azar",
+          "description": "Un ciclo productivo consiste en ganar Apples, confirmar el próximo requisito familiar, adoptar a un miembro y volver a ganar Apples.",
+          "bestFor": "Progresión constante",
+          "priority": "Gasta con un siguiente paso claro"
+        },
+        {
+          "title": "Revisa tu saldo después de cada compra",
+          "description": "Tras adoptar o usar Apples, comprueba el saldo restante y determina si necesitas otra sesión de ganancias antes de la siguiente acción.",
+          "bestFor": "Evitar escasez de recursos",
+          "priority": "Mantén una reserva utilizable"
+        },
+        {
+          "title": "No desperdicies Apples en acciones no planificadas",
+          "description": "Los jugadores principiantes deben evitar compras que retrasen la adopción o reduzcan el saldo por debajo de lo necesario para el siguiente paso de crecimiento",
+          "bestFor": "Juego eficiente al inicio",
+          "priority": "Protege la moneda de progresión"
+        }
+      ]
+    },
+    "familyAdoptionGrowth": {
+      "title": "Guía de adopción y crecimiento familiar de Raise The Biggest Family",
+      "displayType": "cardList",
+      "eyebrow": "Crecimiento familiar",
+      "subtitle": "Entiende el ciclo de adopción, gestiona a los nuevos miembros de la familia y conecta el crecimiento del hogar con tu progresión general.",
+      "intro": "La adopción es la forma principal de ampliar la familia en Raise The Biggest Family. Los jugadores usan la interacción de adopción disponible, cumplen el requisito mostrado y añaden nuevos miembros al hogar. Cada adopción exitosa hace avanzar el ciclo de crecimiento familiar y crea un nuevo objetivo para ganar Apples.",
+      "cards": [
+        {
+          "tag": "Requisito",
+          "title": "Revisa el requisito de adopción mostrado",
+          "description": "Antes de confirmar una adopción, revisa el requisito que muestra el juego.",
+          "list": [
+            "La adopción forma parte de la progresión del crecimiento familiar",
+            "El juego muestra los requisitos de las acciones de adopción disponibles",
+            "Las Apples forman parte de la economía de progresión"
+          ]
+        },
+        {
+          "tag": "Adopción",
+          "title": "Completa la interacción de adopción",
+          "description": "Dirígete al lugar o interfaz de adopción disponible, selecciona la opción de miembro de familia que presenta el juego y confirma la acción tras cumplir el",
+          "list": [
+            "Los jugadores pueden añadir miembros a la familia mediante la adopción",
+            "La adopción aumenta el tamaño del hogar"
+          ]
+        },
+        {
+          "tag": "Gestión",
+          "title": "Revisa y gestiona el hogar",
+          "description": "Después de cada adopción, abre la vista de familia u hogar para confirmar al nuevo miembro y entender cómo un hogar más grande afecta tu próximo objetivo de",
+          "list": [
+            "Confirma al nuevo miembro de la familia",
+            "Revisa el tamaño actual del hogar",
+            "Planifica el siguiente ciclo de obtención de Apples",
+            "Comprueba el próximo requisito de adopción disponible"
+          ]
+        },
+        {
+          "tag": "Ciclo de crecimiento",
+          "title": "Repite el ciclo de crecimiento familiar",
+          "description": "Continúa ganando Apples, cumpliendo el siguiente requisito de adopción, añadiendo otro miembro a la familia y revisando el hogar tras cada expansión exitosa.",
+          "list": [
+            "Gana Apples",
+            "Comprueba los requisitos de adopción",
+            "Adopta a un miembro de la familia",
+            "Revisa el crecimiento del hogar"
+          ]
+        },
+        {
+          "tag": "Opciones dentro del juego",
+          "title": "Usa la interfaz del juego en vivo para opciones adicionales",
+          "description": "La pantalla de adopción y la interfaz del hogar son la fuente de las opciones familiares disponibles, los requisitos y las acciones de gestión actuales.",
+          "list": [
+            "Opciones de miembros de la familia disponibles",
+            "Costo o requisito de adopción actual",
+            "Controles de gestión del hogar",
+            "Próximo objetivo de crecimiento familiar"
+          ]
+        }
+      ]
+    },
+    "familyGoGuide": {
+      "title": "Guía de Family Go de Raise The Biggest Family",
+      "displayType": "steps",
+      "eyebrow": "Family Go",
+      "subtitle": "Usa Family Go para gestionar tu hogar, completar actividades familiares y construir progreso a través de los sistemas centrados en la familia del juego.",
+      "intro": "Family Go es el flujo de juego central para organizar actividades familiares y trabajar hacia un hogar más grande. Sigue las indicaciones disponibles en el juego, elige actividades que coincidan con tus objetivos actuales y usa las Apples como recurso principal de progresión cuando el juego las presente como requisito.",
+      "steps": [
+        {
+          "title": "Abre el sistema Family Go",
+          "description": "Inicia Raise The Biggest Family y entra en la interfaz de Family Go desde el menú del juego o el punto de interacción disponible.",
+          "actions": [
+            "Abre el punto de acceso a Family Go del juego",
+            "Revisa la lista familiar actual y las actividades disponibles",
+            "Comprueba si una actividad requiere Apples u otra condición mostrada antes de empezar"
+          ]
+        },
+        {
+          "title": "Elige una actividad familiar",
+          "description": "Selecciona una actividad que apoye tu objetivo inmediato, como ganar o usar Apples, hacer progresar a la familia o completar una tarea familiar disponible.",
+          "actions": [
+            "Prioriza las actividades que coincidan directamente con tu objetivo actual",
+            "Confirma el costo o requisito mostrado antes de comprometer recursos",
+            "Completa la actividad siguiendo el flujo de interacción en pantalla"
+          ]
+        },
+        {
+          "title": "Usa las Apples para apoyar la progresión",
+          "description": "Las Apples son un recurso fundamental en el ciclo de progresión del juego.",
+          "actions": [
+            "Mantén suficientes Apples disponibles para la siguiente acción relacionada con la familia",
+            "Evita gastar Apples en acciones opcionales cuando haya un paso de progresión requerido disponible",
+            "Vuelve a comprobar la interfaz de Family Go después de completar una actividad relacionada con Apples"
+          ]
+        },
+        {
+          "title": "Completa objetivos y amplía el hogar",
+          "description": "Sigue completando los objetivos familiares disponibles y atiende las indicaciones de progresión que aparecen a medida que tu hogar se desarrolla.",
+          "actions": [
+            "Completa los objetivos familiares disponibles actualmente",
+            "Revisa las actividades recién desbloqueadas o mostradas",
+            "Sigue los cambios en el tamaño del hogar y la progresión directamente en la interfaz del juego"
+          ]
+        }
+      ]
+    },
+    "familyStrategies": {
+      "title": "Mejores estrategias y progresión de Raise The Biggest Family",
+      "displayType": "accordion",
+      "eyebrow": "Estrategia de progresión",
+      "subtitle": "Gestiona las Apples con cuidado, céntrate en las actividades más útiles y ajusta tus prioridades a medida que tu hogar crece.",
+      "intro": "La progresión eficiente proviene de elegir actividades que apoyen tu objetivo familiar actual, en lugar de gastar recursos sin un propósito claro. Las siguientes etapas de estrategia organizan decisiones prácticas para cada fase de tu hogar.",
+      "stages": [
+        {
+          "stage": "Principiante",
+          "title": "Aprende el ciclo básico de Family Go",
+          "summary": "Empieza entendiendo cómo se conectan las acciones familiares, las actividades y las Apples.",
+          "details": [
+            "Abre Family Go e inspecciona todas las actividades disponibles actualmente",
+            "Completa el objetivo disponible más claro antes de gastar Apples en acciones opcionales",
+            "Usa la interfaz para identificar qué acciones afectan directamente a la progresión familiar",
+            "Guarda una pequeña reserva de Apples para que una acción requerida no se retrase"
+          ]
+        },
+        {
+          "stage": "Intermedio",
+          "title": "Prioriza las actividades por valor inmediato",
+          "summary": "Elige actividades que hagan avanzar un objetivo actual o mejoren el acceso al siguiente paso de progresión.",
+          "details": [
+            "Compara el costo en Apples mostrado con el propósito indicado de la actividad",
+            "Elige el progreso relacionado con la familia por encima de acciones que no apoyen tu objetivo actual",
+            "Vuelve a Family Go después de completar una actividad para ver nuevas opciones disponibles",
+            "Sigue los cambios del hogar para saber si una acción contribuyó a la expansión familiar"
+          ]
+        },
+        {
+          "stage": "Avanzado",
+          "title": "Planifica en torno al crecimiento del hogar",
+          "summary": "En las etapas finales, organiza tus acciones alrededor del próximo objetivo de tamaño familiar y evita gastos innecesarios de recursos.",
+          "details": [
+            "Identifica el siguiente requisito visible de progresión familiar antes de seleccionar una actividad",
+            "Reserva Apples para acciones claramente conectadas con ese requisito",
+            "Usa actividades de menor costo o fácilmente disponibles para reponer tus recursos",
+            "Revisa la lista familiar completa con regularidad y ajusta tus prioridades a medida que el hogar crece"
+          ]
+        }
+      ]
+    },
+    "familySizeMilestones": {
+      "title": "Tamaño familiar e hitos de progresión de Raise The Biggest Family",
+      "displayType": "table",
+      "eyebrow": "Progreso del hogar",
+      "subtitle": "Sigue el crecimiento del hogar mediante la lista familiar y usa los objetivos visibles para identificar el próximo destino de progresión.",
+      "intro": "La progresión del tamaño familiar se sigue a través del hogar que muestra el juego. Completa las actividades de Family Go disponibles, cumple los requisitos mostrados por el objetivo actual y comprueba la lista familiar después de cada acción importante para mantener tu hogar avanzando hacia el siguiente hito.",
+      "rows": [
+        {
+          "milestone": "Hogar inicial",
+          "requirement": "Comienza el juego y accede a la interfaz de familia.",
+          "goal": "Conoce la lista familiar actual e identifica el primer objetivo disponible de Family Go.",
+          "tracking": "Comprueba la pantalla del hogar y las acciones disponibles en el juego."
+        },
+        {
+          "milestone": "Crecimiento temprano del hogar",
+          "requirement": "Completa las actividades familiares tempranas disponibles y cualquier condición de progresión mostrada.",
+          "goal": "Avanza desde la configuración inicial del hogar hacia el siguiente objetivo visible de tamaño familiar.",
+          "tracking": "Revisa la lista familiar después de completar actividades y acciones relacionadas con recursos."
+        },
+        {
+          "milestone": "Progresión hacia una familia más grande",
+          "requirement": "Sigue completando objetivos de Family Go y satisface los requisitos mostrados para la expansión del hogar.",
+          "goal": "Mantén suficientes Apples y completa las actividades necesarias para el siguiente paso de crecimiento familiar.",
+          "tracking": "Usa el objetivo actual, la lista familiar y los requisitos de las actividades como lista de verificación de progreso."
+        },
+        {
+          "milestone": "Tamaño familiar máximo",
+          "requirement": "Sigue el objetivo de hogar más alto que el juego muestra actualmente.",
+          "goal": "Sigue haciendo crecer tu hogar hacia la familia más grande que el juego permite.",
+          "tracking": "La lista familiar visible y las indicaciones de progresión del juego muestran los límites actuales."
+        }
+      ]
+    },
+    "familyUpdates": {
+      "title": "Novedades y funciones de Raise The Biggest Family",
+      "displayType": "accordion",
+      "eyebrow": "Actualizaciones del juego",
+      "subtitle": "Repasa las principales áreas de funciones que conviene seguir a medida que evolucionan Family Go, las actividades familiares y el progreso con Apples.",
+      "intro": "La página de Roblox es la referencia oficial de Raise The Biggest Family. Este resumen está organizado en torno a los sistemas del juego que los jugadores deberían vigilar en la experiencia en vivo, desde las actividades de Family Go hasta el progreso con Apples y la gestión del hogar.",
+      "entries": [
+        {
+          "sequence": 1,
+          "title": "Área de funciones de Family Go",
+          "date": "Experiencia actual del juego",
+          "summary": "Family Go ofrece la interfaz principal para las actividades familiares, la gestión del hogar y los objetivos de progresión.",
+          "items": [
+            "Actividades familiares nuevas o modificadas",
+            "Cambios en el flujo de objetivos disponibles",
+            "Actualizaciones en cómo se muestra el progreso del hogar"
+          ]
+        },
+        {
+          "sequence": 2,
+          "title": "Área de funciones del progreso con Apples",
+          "date": "Experiencia actual del juego",
+          "summary": "Las Apples siguen siendo un recurso central a vigilar cuando las actividades presentan requisitos de recolección, gasto o progresión.",
+          "items": [
+            "Nuevas formas de conseguir Apples",
+            "Cambios en los costos en Apples que muestran las actividades",
+            "Nuevos objetivos familiares que usan Apples"
+          ]
+        },
+        {
+          "sequence": 3,
+          "title": "Área de funciones de actividades familiares",
+          "date": "Experiencia actual del juego",
+          "summary": "Las actividades familiares determinan cómo interactúan los jugadores con el hogar y cómo avanzan hacia una familia más grande.",
+          "items": [
+            "Nuevas categorías de actividades",
+            "Cambios en los requisitos de las actividades",
+            "Avisos de progresión adicionales al completar actividades"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Raise The Biggest Family",
+    "questions": [
+      {
+        "question": "¿Qué es Raise The Biggest Family?",
+        "answer": "Raise The Biggest Family es un simulador de vida y adopción familiar gratuito de Roblox creado por Novkod X Level0Expert. Adoptas bebés, los cuidas y haces crecer tu hogar, y tus hijos siguen creciendo incluso cuando no estás conectado."
+      },
+      {
+        "question": "¿Cómo adopto un bebé en Raise The Biggest Family?",
+        "answer": "Consigue la aprobación de adopción, ve al centro de adopción, pasa la entrevista y lleva a tu hijo a casa. La guía completa está en la Guía de Adopción y Crecimiento Familiar de arriba."
+      },
+      {
+        "question": "¿Para qué sirven las Apples en Raise The Biggest Family?",
+        "answer": "Las Apples son la moneda principal. Las ganas mediante acciones del juego y las gastas en la expansión familiar y el progreso del hogar, así que mantener una reserva es la clave para un crecimiento constante."
+      },
+      {
+        "question": "¿Los niños crecen mientras no estoy conectado en Raise The Biggest Family?",
+        "answer": "Sí. Los niños siguen creciendo mientras no estás, así que tu familia continúa progresando entre sesiones de juego sin ningún esfuerzo adicional."
+      },
+      {
+        "question": "¿Hay codes funcionando para Raise The Biggest Family?",
+        "answer": "Actualmente no hay codes funcionando para Raise The Biggest Family. Revisa la interfaz del juego y los anuncios oficiales para futuros lanzamientos de codes, y nunca confíes en listas no oficiales."
+      },
+      {
+        "question": "¿Qué es Family Go en Raise The Biggest Family?",
+        "answer": "Family Go es el modo centrado en la familia del juego, para organizar actividades, gestionar tu hogar y trabajar hacia una familia más grande. Consulta la Guía de Family Go de arriba para el recorrido completo."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para criar la familia más grande?",
+    "description": "Juega gratis en Roblox y empieza a adoptar bebés hoy: ¡tu familia sigue creciendo incluso cuando no estás conectado!",
+    "joinCommunity": "Juega gratis en Roblox",
+    "joinGame": "Lee las guías"
+  },
+  "footer": {
+    "title": "Wiki de Raise The Biggest Family",
+    "description": "Tu centro de recursos completo sobre las guías de adopción de Raise The Biggest Family, consejos de cuidado de bebés, Apples, el modo Family Go y las mecánicas",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "roblox": "Jugar en Roblox",
+    "legal": "Legal",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Raise The Biggest Family Wiki. No afiliado a Novkod X Level0Expert ni a Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans. No publicado por Roblox Corporation."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guía de Raise The Biggest Family",
+      "description": "La guía completa de Raise The Biggest Family: pasos de adopción, rutinas de cuidado de bebés, farmeo de Apples, modo Family Go y planificación de casas, todo",
+      "metaTitle": "Guía de Raise The Biggest Family - Adopción, Apples y Family Go",
+      "metaDescription": "Aprende Raise The Biggest Family paso a paso: adopta niños, supera la entrevista, cuida bebés, farmea Apples y haz crecer la familia más grande de Roblox.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué es la guía?",
+      "whatIsDescription": "Esta colección de guías te acompaña por Raise The Biggest Family desde tu primera adopción hasta una casa llena. Conecta todos los sistemas del juego — cartas de aprobación, entrevistas, alimentación, baño, Apples y Family Go — para que siempre sepas qué hacer después.",
+      "why": "¿Por qué seguir esta guía?",
+      "whySteps": {
+        "step1Title": "Aprende el ciclo básico rápido",
+        "step1Description": "Consigue la aprobación, adopta y crece — la guía ordena cada tarea para que no pierdas ni un día en el juego.",
+        "step2Title": "Evita errores comunes",
+        "step2Description": "Desde entrevistas omitidas hasta Apples desperdiciados, la guía señala las trampas que frenan a los nuevos padres.",
+        "step3Title": "Crece con un plan",
+        "step3Description": "Fija metas claras de tamaño familiar, espacio de la casa y recompensas de Family Go, y ve cumpliéndolas paso a paso."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías"
+    },
+    "adoption": {
+      "title": "Adopción en Raise The Biggest Family",
+      "description": "Todo sobre la adopción en Raise The Biggest Family: cartas de aprobación, entrevistas en el centro de adopción, requisitos y cómo llevar más niños a casa.",
+      "metaTitle": "Guía de adopción de Raise The Biggest Family - Entrevistas y requisitos",
+      "metaDescription": "Adopta más niños en Raise The Biggest Family: cartas de aprobación, entrevistas en el centro de adopción, requisitos y límites de tamaño familiar explicados",
+      "categoryLabel": "ADOPCIÓN",
+      "whatIs": "¿Qué es la adopción?",
+      "whatIsDescription": "La adopción es el corazón de Raise The Biggest Family. Recibes una carta de aprobación, visitas el centro de adopción, superas la entrevista y das la bienvenida a un niño en casa — luego lo alimentas, lo bañas y lo cuidas mientras crece, incluso cuando no estás conectado.",
+      "why": "¿Por qué leer las guías de adopción?",
+      "whySteps": {
+        "step1Title": "Supera la entrevista al primer intento",
+        "step1Description": "Conoce qué busca el centro de adopción para que aprueben tu solicitud sin viajes repetidos.",
+        "step2Title": "Cumple todos los requisitos",
+        "step2Description": "Revisa camas, Apples y espacio en la casa antes de postularte, para que cada niño nuevo siempre tenga un hogar al que llegar.",
+        "step3Title": "Sigue haciendo crecer tu familia",
+        "step3Description": "Aprende cómo funcionan los límites de tamaño familiar y cómo aumentarlos para dar la bienvenida a más niños más rápido."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de adopción"
+    },
+    "apples": {
+      "title": "Apples en Raise The Biggest Family",
+      "description": "Los Apples son la moneda principal de Raise The Biggest Family. Aprende cómo ganar Apples rápido y las mejores formas de gastarlos.",
+      "metaTitle": "Apples de Raise The Biggest Family - Gana rápido y gasta con inteligencia",
+      "metaDescription": "Farmea Apples rápido en Raise The Biggest Family: recompensas diarias, tareas y rutas de farmeo, además de las mejores formas de gastar Apples en tu familia.",
+      "categoryLabel": "APPLES",
+      "whatIs": "¿Qué son los Apples?",
+      "whatIsDescription": "Los Apples son la moneda principal de Raise The Biggest Family. Pagan la comida, artículos de cuidado, juguetes, mejoras de la casa y costos de adopción — cada parte de criar una familia más grande funciona con Apples.",
+      "why": "¿Por qué farmear Apples?",
+      "whySteps": {
+        "step1Title": "Financia cada adopción",
+        "step1Description": "Cada niño nuevo necesita Apples para requisitos y cuidados, así que un ingreso constante mantiene a tu familia creciendo.",
+        "step2Title": "Mejora más rápido",
+        "step2Description": "Los Apples compran expansiones de casa y mejoras familiares que desbloquean más espacio y mayores recompensas.",
+        "step3Title": "Cubre el cuidado diario",
+        "step3Description": "Alimentar, bañar y los juguetes cuestan Apples — un saldo saludable significa que ningún niño se quede sin nada."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de Apples"
+    },
+    "family": {
+      "title": "Family Go en Raise The Biggest Family",
+      "description": "El modo Family Go explicado: cómo desbloquearlo, qué recompensas paga y qué mejoras familiares aumentan tu capacidad más rápido.",
+      "metaTitle": "Family Go de Raise The Biggest Family - Desbloqueos, recompensas y mejoras",
+      "metaDescription": "Domina Family Go en Raise The Biggest Family: pasos de desbloqueo, lista de recompensas, mejoras familiares y cómo aumentar tu capacidad familiar.",
+      "categoryLabel": "FAMILY GO",
+      "whatIs": "¿Qué es Family Go?",
+      "whatIsDescription": "Family Go es el modo destacado de Raise The Biggest Family. Lleva a tu familia a nuevas actividades, paga recompensas extra y se conecta con las mejoras que aumentan cuántos niños puede acoger tu hogar.",
+      "why": "¿Por qué dominar Family Go?",
+      "whySteps": {
+        "step1Title": "Desbloquéalo pronto",
+        "step1Description": "Family Go tiene pasos de desbloqueo sencillos — alcanzarlos temprano abre una segunda fuente de ingresos además de las tareas diarias.",
+        "step2Title": "Recolecta recompensas extra",
+        "step2Description": "Los pagos de Family Go se suman a tus ganancias normales, acelerando cada mejora de tu lista.",
+        "step3Title": "Aumenta tu capacidad",
+        "step3Description": "Las mejoras familiares aumentan cuántos niños puedes criar a la vez — el camino directo hacia la familia más grande."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de Family Go"
+    },
+    "codes": {
+      "title": "Códigos de Raise The Biggest Family",
+      "description": "Tu centro para los códigos de Raise The Biggest Family: cómo funciona el canje, dónde se anuncian primero los nuevos códigos y recompensas gratuitas que puedes",
+      "metaTitle": "Códigos de Raise The Biggest Family - Recompensas y cómo canjear",
+      "metaDescription": "Sigue los códigos de Raise The Biggest Family: cómo funciona el sistema de canje dentro del juego, dónde aparecen primero los códigos y las recompensas",
+      "categoryLabel": "CÓDIGOS",
+      "whatIs": "¿Qué son los códigos?",
+      "whatIsDescription": "Los códigos son frases de regalo oficiales publicadas por los desarrolladores de Raise The Biggest Family que se canjean por recompensas gratuitas dentro del juego. Este centro explica cómo funciona el canje y reúne cada código confirmado en el momento en que se publica.",
+      "why": "¿Por qué estar atento a los códigos?",
+      "whySteps": {
+        "step1Title": "Recompensas gratis, costo cero",
+        "step1Description": "Los códigos reparten Apples y mejoras sin necesidad de farmear, una ventaja gratuita cada vez que aparece uno.",
+        "step2Title": "Entérate en cuanto salgan",
+        "step2Description": "Los nuevos códigos aparecen en la descripción del juego y en los canales oficiales — esta página sigue el ritmo de cada anuncio.",
+        "step3Title": "Reclama recompensas alternativas hoy",
+        "step3Description": "Mientras esperas, los bonos diarios, las tareas y Family Go pagan recompensas gratuitas constantes que puedes acumular ahora mismo."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de códigos"
+    },
+    "houses": {
+      "title": "Casas en Raise The Biggest Family",
+      "description": "Guías de casas para Raise The Biggest Family: cómo construir, mejorar y planificar el espacio para que cada niño de tu creciente familia tenga su habitación.",
+      "metaTitle": "Casas de Raise The Biggest Family - Construcción, mejoras y planificación del espacio",
+      "metaDescription": "Construye y mejora casas en Raise The Biggest Family: pasos de construcción, rutas de mejora y la mejor configuración de casa para familias numerosas.",
+      "categoryLabel": "CASAS",
+      "whatIs": "¿Qué es el sistema de casas?",
+      "whatIsDescription": "Las casas son el hogar base de tu familia en Raise The Biggest Family. Las casas más grandes容纳… Las casas más grandes tienen más camas, lo que aumenta la cantidad de niños que puedes adoptar y mantiene a cada niño bien cuidado bajo un mismo techo.",
+      "why": "¿Por qué mejorar tu casa?",
+      "whySteps": {
+        "step1Title": "Espacio para cada niño",
+        "step1Description": "Los requisitos de adopción verifican el espacio de camas — las mejoras de casa son la llave a una familia más grande.",
+        "step2Title": "Desbloquea mejores mejoras",
+        "step2Description": "Cada nivel de casa abre nuevas mejoras que aceleran las rutinas de cuidado y las ganancias diarias.",
+        "step3Title": "Planifica para familias numerosas",
+        "step3Description": "Los diseños inteligentes mantienen cortas las rutas de alimentación y baño, incluso con la casa llena de niños."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de casas"
+    },
+    "updates": {
+      "title": "Actualizaciones de Raise The Biggest Family",
+      "description": "Cada actualización de Raise The Biggest Family en un solo lugar: nuevas funciones, los últimos detalles de parches y lo que viene después para el juego.",
+      "metaTitle": "Actualizaciones de Raise The Biggest Family - Nuevas funciones y noticias de parches",
+      "metaDescription": "Mantente al día con Raise The Biggest Family: nuevas funciones, detalles de la última actualización, contenido futuro y qué significa cada cambio para tu",
+      "categoryLabel": "ACTUALIZACIONES",
+      "whatIs": "¿Qué son las actualizaciones?",
+      "whatIsDescription": "Las actualizaciones son las entregas de contenido habituales de Raise The Biggest Family de los desarrolladores Novkod y Level0Expert. Las nuevas funciones, eventos de temporada y cambios de equilibrio llegan aquí primero — y cada una puede cambiar cómo planificas tu familia.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Adáptate antes que nadie",
+        "step1Description": "Las nuevas funciones redefinen las rutas más rápidas hacia los Apples y el tamaño familiar — quienes llegan primero ganan más.",
+        "step2Title": "Nunca te pierdas un evento",
+        "step2Description": "Los eventos y recompensas limitados se anuncian en las actualizaciones, y perdértelos significa perder contenido gratis.",
+        "step3Title": "Planifica según lo que viene",
+        "step3Description": "Las funciones futuras te indican en qué mejoras guardar Apples, para que los grandes cambios nunca te tomen por sorpresa."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de actualizaciones"
+    }
+  }
+}

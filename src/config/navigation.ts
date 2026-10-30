@@ -1,4 +1,5 @@
 import type { LucideIcon } from 'lucide-react'
+import { Apple, Baby, BookOpen, Gift, Home, Newspaper, Users } from 'lucide-react'
 
 export interface NavigationItem {
 	key: string // 用于翻译键，如 'codes' -> t('nav.codes')
@@ -7,12 +8,20 @@ export interface NavigationItem {
 	isContentType: boolean // 是否对应 content/ 目录
 }
 
-export const NAVIGATION_CONFIG: NavigationItem[] = []
+export const NAVIGATION_CONFIG: NavigationItem[] = [
+	{ key: 'guide', path: '/guide', icon: BookOpen, isContentType: true },
+	{ key: 'adoption', path: '/adoption', icon: Baby, isContentType: true },
+	{ key: 'apples', path: '/apples', icon: Apple, isContentType: true },
+	{ key: 'family', path: '/family', icon: Users, isContentType: true },
+	{ key: 'codes', path: '/codes', icon: Gift, isContentType: true },
+	{ key: 'houses', path: '/houses', icon: Home, isContentType: true },
+	{ key: 'updates', path: '/updates', icon: Newspaper, isContentType: true },
+]
 
 // 从配置派生内容类型列表（用于路由和内容加载）
 export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map(
 	(item) => item.path.slice(1),
-) // 移除开头的 '/' -> ['codes', 'build', 'combat', 'guides']
+) // 移除开头的 '/' -> ['guide', 'adoption', 'apples', 'family', 'codes', 'houses', 'updates']
 
 export type ContentType = (typeof CONTENT_TYPES)[number]
 

@@ -1,0 +1,263 @@
+import { Apple, Map, Search, Sprout, Target, Trophy } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Raise The Biggest Family : comment obtenir des pommes : Astuces de farm",
+  description: "Apprenez à trouver les pommiers, récolter des pommes efficacement, gérer les réapparitions et éviter les erreurs courantes de farm dans Raise The Biggest",
+  category: "apples",
+  image: "https://placehold.co/800x400/4c1d95/fff?text=Apple+Farming+Guide",
+  date: "2026-10-31",
+  author: "Équipe Wiki de Raise The Biggest Family",
+  slug: "raise-the-biggest-family-how-to-get-apples"
+}
+
+<Callout type="info" title="Guide rapide">
+- Les **pommes dans Raise The Biggest Family** se récoltent généralement sur des nœuds de ressources visibles comme des vergers ou des arbres.
+- **Commencez par fouiller les zones de départ** avant de vous aventurer loin de votre base principale ou du foyer familial.
+- **Interagissez avec chaque pommier** et vérifiez le sol à proximité pour les objets restants.
+- **Utilisez un itinéraire répétable** afin de récolter les pommes réapparu sans errer au hasard.
+- **Stockez les pommes régulièrement** plutôt que de porter toute la récolte pendant de longs trajets.
+</Callout>
+
+<Section icon={Apple} title="Raise The Biggest Family : comment obtenir des pommes">
+
+Dans **Raise The Biggest Family, obtenir des pommes** est avant tout une question de recherche et de collecte. Commencez par chercher des pommiers, des zones de verger ou de petites aires de récolte près des lieux où votre famille débute. Les ressources en pommes sont plus faciles à rassembler lorsque vous apprenez le schéma visuel de l'environnement plutôt que de vérifier des zones au hasard, une par une.
+
+Promenez-vous autour de la base, des chemins à proximité et des espaces verts ouverts. Cherchez des arbres avec des fruits visibles, des objets au sol ou des invites d'interaction. Certains nœuds de ressources peuvent être partiellement cachés derrière des clôtures, des bâtiments, des pentes ou d'autres éléments de décor : faites donc pivoter la caméra en tournant autour de chaque arbre.
+
+<Callout type="tip" title="Astuce de première récolte">
+Fouillez en cercle serré autour de votre zone de départ avant d'explorer des lieux éloignés. Les nœuds de pommes proches sont plus faciles à mémoriser et constituent généralement l'itinéraire de farm le plus fiable au début.
+</Callout>
+
+<CardGrid cols={3}>
+  <Card title="Zone de départ">
+    Vérifiez les arbres, les chemins et les espaces ouverts proches de votre base familiale. C'est l'endroit le plus sûr pour apprendre la disposition des ressources.
+  </Card>
+  <Card title="Zones de verger">
+    Inspectez les groupes d'arbres similaires et contournez le bord extérieur. Les pommes sont souvent plus faciles à voir de côté.
+  </Card>
+  <Card title="Objets cachés">
+    Vérifiez derrière les clôtures, les bâtiments, les rochers et le terrain surélevé lorsqu'un arbre semble ne rien offrir de visible.
+  </Card>
+</CardGrid>
+
+### Priorités de recherche des pommes
+
+| Zone de recherche | Quoi chercher | Action recommandée |
+|---|---|---|
+| Base familiale | Arbres proches et objets visibles | Faites un tour complet autour de la base |
+| Routes et chemins | Arbres le long des trajets | Vérifiez les deux côtés avant d'avancer |
+| Groupe de vergers | Plusieurs arbres dans une même zone | Récoltez dans le sens des aiguilles d'une montre et mémorisez l'itinéraire |
+| Bâtiments et clôtures | Nœuds partiellement cachés | Faites pivoter la caméra et inspectez les coins |
+| Champs ouverts | Arbres isolés ou objets au sol | Fouillez lentement au lieu de sprinter |
+
+L'approche la plus efficace consiste à récolter les pommes dans un ordre fixe. Par exemple, partez du foyer familial, dirigez-vous vers le chemin le plus proche, contournez le premier groupe d'arbres et revenez par le côté opposé de la zone. Un itinéraire régulier permet de repérer plus facilement quels nœuds sont disponibles et lesquels ont déjà été récoltés.
+
+</Section>
+
+<Section icon={Map} title="Où chercher les pommiers">
+
+Le farm de pommes devient beaucoup plus rapide une fois que vous divisez la carte en zones de recherche. Ne considérez pas le monde entier comme une seule grande zone. Identifiez plutôt une petite zone locale, videz-la complètement, puis étendez vos recherches seulement si l'itinéraire local ne fournit pas assez de pommes.
+
+Commencez par des zones faciles à revisiter. Un court itinéraire près de chez vous est souvent plus utile qu'un trajet lointain exigeant un long déplacement. Lorsque vous comparez des emplacements, tenez compte de la distance à parcourir, de la visibilité, des dangers à proximité et de la facilité du retour après la collecte.
+
+<Callout type="warning" title="Évitez les recherches aléatoires">
+Courir d'un endroit éloigné à un autre peut faire perdre plus de temps que cela n'en fait gagner. Terminez une zone de recherche avant de passer à la suivante, et retenez l'itinéraire exact qui a produit des pommes.
+</Callout>
+
+| Type de zone | Visibilité | Coût de déplacement | Valeur de farm |
+|---|---|---:|---|
+| Près de la base familiale | Élevée | Faible | Excellente pour des passages répétés en début de partie |
+| Chemins principaux | Moyenne | Faible | Bonne pour vérifier en voyageant |
+| Groupes d'arbres denses | Moyenne | Moyen | Forte lorsque plusieurs nœuds sont proches |
+| Zones clôturées ou bâties | Faible | Moyen | À vérifier après les zones évidentes |
+| Bords éloignés de la carte | Variable | Élevé | À utiliser seulement après avoir vidé les zones proches |
+
+### Comment reconnaître un itinéraire productif
+
+Un itinéraire à pommes productif présente trois caractéristiques :
+
+- Il contient plusieurs emplacements potentiels d'arbres ou d'objets.
+- Il peut être accompli sans détours inutiles.
+- Il vous ramène près de votre stockage, de votre base familiale ou de votre prochain objectif.
+
+Si un itinéraire ne contient qu'un seul arbre et exige un long voyage, gardez-le comme emplacement de secours plutôt que comme chemin de farm principal. Un itinéraire avec moins de nœuds individuels peut quand même être meilleur si les nœuds sont regroupés.
+
+<Callout type="info" title="Planification de l'itinéraire">
+Votre meilleur itinéraire n'est pas toujours celui avec le plus d'arbres. Priorisez l'itinéraire qui vous permet de récolter, revenir, stocker et répéter avec un temps mort minimal.
+</Callout>
+
+### Comparaison simple des itinéraires
+
+| Itinéraire | Distance | Densité de nœuds | Meilleur usage |
+|---|---|---|---|
+| Boucle de la base | Courte | Faible à moyenne | Vérifications fréquentes des approvisionnements |
+| Boucle des chemins | Courte à moyenne | Moyenne | Récolte pendant les déplacements normaux |
+| Boucle du verger | Moyenne | Élevée | Farm de pommes dédié |
+| Boucle éloignée | Longue | Incertaine | Recherche de secours après les zones locales |
+
+</Section>
+
+<Section icon={Search} title="Itinéraire de farm de pommes étape par étape">
+
+Utilisez le processus suivant chaque fois que vous avez besoin de pommes. Cet itinéraire est conçu pour réduire les objets manqués, les retours inutiles et le temps de déplacement gaspillé.
+
+<Callout type="success" title="Méthode de farm efficace">
+Videz complètement chaque zone avant de partir. Un itinéraire complet est plus facile à répéter qu'une série d'arrêts aléatoires, surtout quand vous attendez que les ressources redeviennent disponibles.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Commencez à votre point de stockage">
+    Partez du foyer familial, de la base ou d'un autre endroit où vous pouvez stocker des ressources en toute sécurité. Cela donne à l'itinéraire un début et une fin clairs.
+  </Step>
+  <Step num="2" title="Inspectez les arbres les plus proches">
+    Contournez les arbres voisins et cherchez des fruits, des objets au sol ou une invite d'interaction. Vérifiez les deux côtés du tronc et ajustez la caméra lorsque la visibilité est mauvaise.
+  </Step>
+  <Step num="3" title="Videz la zone dans une seule direction">
+    Avancez dans le sens des aiguilles d'une montre ou inverse dans la zone. Récoltez toutes les pommes visibles avant de passer à une autre zone de recherche.
+  </Step>
+  <Step num="4" title="Vérifiez les coins cachés">
+    Inspectez les clôtures, les bords des bâtiments, les pentes, les rochers et les chemins derrière la principale ligne d'arbres. Ces endroits sont faciles à sauter lorsqu'on se déplace rapidement.
+  </Step>
+  <Step num="5" title="Revenez et répétez l'itinéraire">
+    Stockez votre récolte, poursuivez un autre objectif et revisitez le même itinéraire plus tard. Comparez la zone avec votre passage précédent pour identifier son schéma de collecte.
+  </Step>
+</Steps>
+
+| Étape | Objectif principal | Erreur courante |
+|---:|---|---|
+| 1 | Établir un point de départ | Partir sans itinéraire de retour clair |
+| 2 | Trouver les nœuds proches | Ne vérifier que le devant de chaque arbre |
+| 3 | Récolter systématiquement | Changer de zone après chaque objet ramassé |
+| 4 | Trouver les objets manqués | Ignorer les espaces bloqués ou surélevés |
+| 5 | Créer une boucle répétable | Oublier quels endroits ont été vérifiés |
+
+### Quand un pommier semble vide
+
+Un arbre qui paraît vide ne signifie pas toujours que l'itinéraire est incorrect. Déplacez-vous autour du nœud, changez l'angle de la caméra et vérifiez si l'invite d'interaction apparaît depuis une autre position. Si aucune invite ni aucun objet n'est disponible, quittez les lieux et poursuivez l'itinéraire plutôt que de rester immobile.
+
+Après avoir terminé la boucle, revenez plus tard et vérifiez à nouveau les mêmes arbres. Cela permet de déterminer plus facilement si l'emplacement est temporaire, nécessite une réinitialisation ou a simplement un état de collecte limité.
+
+</Section>
+
+<Section icon={Sprout} title="Réapparition des pommes, stockage et conseils d'inventaire">
+
+Un farm de pommes efficace ne dépend pas seulement de la recherche d'arbres. Vous devez aussi gérer votre itinéraire, votre espace d'inventaire et votre timing de retour. Porter une grande récolte tout en accomplissant des tâches sans rapport peut créer un risque inutile, surtout si votre inventaire se remplit ou si votre prochain objectif vous emmène loin.
+
+Utilisez un court itinéraire local pour des vérifications régulières des approvisionnements. Utilisez un itinéraire de verger plus long uniquement lorsque vous avez besoin d'un stock plus important. Ce système à deux itinéraires rend la collecte quotidienne pratique tout en préservant une option plus solide pour des sessions de farm dédiées.
+
+<Callout type="tip" title="Habitude de stockage">
+Retournez au stockage chaque fois que votre inventaire s'encombre ou avant un long voyage. Des dépôts réguliers rendent chaque session de farm plus régulière et réduisent le risque d'abandonner des objets utiles.
+</Callout>
+
+<CardGrid cols={3}>
+  <Card title="Itinéraire court">
+    À utiliser pour des vérifications rapides entre les objectifs. Il économise du temps de trajet et aide à maintenir un approvisionnement régulier.
+  </Card>
+  <Card title="Itinéraire long">
+    À utiliser lorsque vous avez besoin d'une plus grande récolte. Videz chaque groupe d'arbres avant de retourner au stockage.
+  </Card>
+  <Card title="Itinéraire de secours">
+    Gardez une zone secondaire disponible lorsque l'itinéraire principal est vide ou difficile d'accès.
+  </Card>
+</CardGrid>
+
+| Schéma de farm | Cas d'usage | Avantage |
+|---|---|---|
+| Répétition courte | Petit approvisionnement quotidien | Faible temps de trajet |
+| Circuit complet | Grande récolte | Plus de points de collecte par passage |
+| Retour différé | Vérifier la disponibilité plus tard | Aide à identifier le rythme des ressources |
+| Recherche de secours | Itinéraire principal vide | Évite l'attente inutile |
+
+### Priorités de gestion de l'inventaire
+
+- Déposez les pommes avant de commencer une activité éloignée.
+- Gardez assez d'espace libre pour la prochaine boucle de collecte.
+- Séparez les sorties de récolte de l'exploration autant que possible.
+- Évitez de transporter toutes vos ressources si seules les pommes sont nécessaires.
+- Notez l'itinéraire qui donne les résultats les plus réguliers.
+
+<Checklist
+  id="apple-farming-checklist"
+  title="Liste de vérification du farm de pommes :"
+  items={[
+    "Vérifier les arbres près de la base familiale",
+    "Inspecter les deux côtés de chaque arbre",
+    "Fouiller les chemins, clôtures et coins cachés",
+    "Terminer un itinéraire avant de changer de zone",
+    "Stocker les pommes avant les longs déplacements"
+  ]}
+/>
+
+<Callout type="warning" title="Avertissement sur l'inventaire">
+Si une pomme ne peut pas être ramassée, vérifiez votre espace d'inventaire disponible avant de conclure que la ressource a disparu. Un inventaire plein peut faire paraître un itinéraire de farm normal peu fiable.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Erreurs courantes et solutions pour le farm de pommes">
+
+La plupart des problèmes de collecte viennent d'une recherche inefficace plutôt que de mécaniques difficiles. Les joueurs courent souvent devant un arbre, ne vérifient qu'un seul angle de caméra ou quittent une zone avant d'en inspecter les bords. Corriger ces habitudes peut améliorer votre récolte sans avoir besoin d'un itinéraire plus avancé.
+
+Utilisez le tableau ci-dessous pour diagnostiquer les problèmes les plus courants.
+
+<Callout type="info" title="Astuce de dépannage">
+Changez une seule variable à la fois. D'abord ajustez la position de la caméra, puis vérifiez l'espace d'inventaire, puis revisitez l'itinéraire plus tard. Cela facilite l'identification de la cause du problème.
+</Callout>
+
+| Problème | Cause probable | Solution |
+|---|---|---|
+| Aucune invite de pomme | Mauvais angle d'interaction ou nœud vide | Contournez l'arbre et revérifiez plus tard |
+| Itinéraire lent | Trop d'arrêts éloignés | Raccourcissez l'itinéraire et regroupez les arbres proches |
+| Pommes impossibles à ramasser | Inventaire peut-être plein | Stockez des objets et revenez au nœud |
+| Peu de pommes visibles | Mauvais angle de caméra ou objet caché | Faites pivoter la caméra et inspectez le sol |
+| Zone principale vide | La disponibilité des ressources a pu changer | Utilisez l'itinéraire de secours et revenez plus tard |
+| Récolte irrégulière | Mouvements aléatoires entre les zones | Suivez le même ordre d'itinéraire à chaque passage |
+
+### Meilleur contrôle de la caméra
+
+En approchant d'un arbre, ralentissez au lieu de sprinter directement à travers. Longez le bord extérieur, tournez la caméra vers le tronc et le sol, et surveillez un indicateur d'interaction. Cette méthode est particulièrement utile dans les zones denses où le feuillage ou les structures peuvent masquer l'objet.
+
+### Meilleure mémoire de l'itinéraire
+
+Utilisez des points de repère plutôt que d'essayer de mémoriser chaque arbre individuellement. Un coin de clôture, un pont, une entrée de bâtiment ou une bifurcation peut marquer le début d'un segment d'itinéraire. Divisez la boucle complète en deux ou trois sections et accomplissez-les dans le même ordre.
+
+### Meilleure gestion du temps
+
+N'attendez pas indéfiniment à un endroit vide. Si un arbre n'offre aucun objet disponible, poursuivez une autre tâche ou vérifiez une zone de secours. Revenir plus tard vous donne plus d'informations utiles que d'interagir sans cesse avec le même endroit vide.
+
+</Section>
+
+<Section icon={Target} title="FAQ sur le farm de pommes">
+
+Les réponses suivantes résument l'approche la plus sûre pour trouver et récolter des pommes tout en gardant un itinéraire efficace.
+
+<Callout type="success" title="À retenir">
+Un approvisionnement fiable en pommes repose sur un itinéraire répétable, des vérifications attentives de la caméra, un stockage régulier et le retour vers des emplacements connus plutôt qu'une recherche aléatoire.
+</Callout>
+
+<FAQ items={[
+  {
+    question: "Quel est le moyen le plus rapide d'obtenir des pommes dans Raise The Biggest Family ?",
+    answer: "Commencez par un court itinéraire près de votre base familiale, inspectez chaque arbre proche et répétez la même boucle. Un itinéraire familier fait généralement gagner plus de temps que de chercher des zones éloignées sans plan."
+  },
+  {
+    question: "Pourquoi ne puis-je pas ramasser une pomme sur un arbre ?",
+    answer: "Vérifiez votre espace d'inventaire, contournez l'arbre, ajustez la caméra et inspectez le sol à proximité. Si aucune interaction n'apparaît, quittez le nœud et revenez plus tard."
+  },
+  {
+    question: "Dois-je fouiller toute la carte pour trouver des pommes ?",
+    answer: "Pas au début. Videz la zone près de votre base, puis étendez-vous vers les chemins et les groupes de vergers. Les zones éloignées sont mieux traitées comme itinéraires de secours jusqu'à ce que vous connaissiez leur coût de déplacement et leur valeur de collecte."
+  },
+  {
+    question: "Comment organiser un itinéraire de farm de pommes ?",
+    answer: "Choisissez un point de départ clair, avancez dans une seule direction, récoltez chaque nœud visible, inspectez les coins cachés et retournez au stockage. Répétez le même ordre afin que les emplacements vides et disponibles deviennent faciles à reconnaître."
+  }
+]} />
+
+</Section>

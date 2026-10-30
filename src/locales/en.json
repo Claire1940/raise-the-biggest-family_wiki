@@ -10,7 +10,15 @@
       "twitterDescription": "Adoption guides, baby care tips, Apples farming, Family Go mode, offline growth and codes status for the Raise The Biggest Family Roblox game."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "adoption": "Adoption",
+    "apples": "Apples",
+    "family": "Family",
+    "codes": "Codes",
+    "houses": "Houses",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -515,125 +523,145 @@
     "disclaimer": "Unofficial fan-made resource website. Not published by Roblox Corporation."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "Raise The Biggest Family Guide",
+      "description": "The complete Raise The Biggest Family guide: adoption steps, baby care routines, Apples farming, Family Go mode, and house planning in one place.",
+      "metaTitle": "Raise The Biggest Family Guide - Adoption, Apples & Family Go",
+      "metaDescription": "Learn Raise The Biggest Family step by step: adopt kids, pass the interview, care for babies, farm Apples, and grow the biggest family on Roblox.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What Is the Guide?",
+      "whatIsDescription": "This guide collection walks you through Raise The Biggest Family from your first adoption to a full house. It connects every system in the game — approval letters, interviews, feeding, bathing, Apples, and Family Go — so you always know what to do next.",
+      "why": "Why Follow This Guide?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Learn the Core Loop Fast",
+        "step1Description": "Get approved, adopt, and grow — the guide orders every task so you never waste a day in game.",
+        "step2Title": "Avoid Common Mistakes",
+        "step2Description": "From skipped interviews to wasted Apples, the guide flags the traps that slow new parents down.",
+        "step3Title": "Grow With a Plan",
+        "step3Description": "Set clear goals for family size, house space, and Family Go rewards, then reach them one step at a time."
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "adoption": {
+      "title": "Raise The Biggest Family Adoption",
+      "description": "Everything about adoption in Raise The Biggest Family: approval letters, adoption center interviews, requirements, and how to bring more kids home.",
+      "metaTitle": "Raise The Biggest Family Adoption Guide - Interviews & Requirements",
+      "metaDescription": "Adopt more kids in Raise The Biggest Family: approval letters, adoption center interviews, requirements, and family size limits explained step by step.",
+      "categoryLabel": "ADOPTION",
+      "whatIs": "What Is Adoption?",
+      "whatIsDescription": "Adoption is the heart of Raise The Biggest Family. You receive an approval letter, visit the adoption center, pass the interview, and welcome a child home — then feed, bathe, and care for them as they grow, even while you are offline.",
+      "why": "Why Read the Adoption Guides?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Pass the Interview First Try",
+        "step1Description": "Know what the adoption center looks for so your application is approved without repeat trips.",
+        "step2Title": "Meet Every Requirement",
+        "step2Description": "Check beds, Apples, and house space before you apply, so a new child always has a room to come home to.",
+        "step3Title": "Keep Growing Your Family",
+        "step3Description": "Learn how family size limits work and how to raise them to welcome more children faster."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Adoption Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "apples": {
+      "title": "Raise The Biggest Family Apples",
+      "description": "Apples are the core currency in Raise The Biggest Family. Learn how to earn Apples fast and the smartest ways to spend them.",
+      "metaTitle": "Raise The Biggest Family Apples - Earn Fast & Spend Smart",
+      "metaDescription": "Farm Apples fast in Raise The Biggest Family: daily rewards, tasks, and farming routes, plus the best ways to spend Apples on your family.",
+      "categoryLabel": "APPLES",
+      "whatIs": "What Are Apples?",
+      "whatIsDescription": "Apples are the main currency of Raise The Biggest Family. They pay for food, care items, toys, house upgrades, and adoption costs — every part of raising a bigger family runs on Apples.",
+      "why": "Why Farm Apples?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Fund Every Adoption",
+        "step1Description": "Each new child needs Apples for requirements and care, so a steady income keeps your family growing.",
+        "step2Title": "Upgrade Faster",
+        "step2Description": "Apples buy house expansions and family upgrades that unlock more space and bigger rewards.",
+        "step3Title": "Cover Daily Care",
+        "step3Description": "Feeding, bathing, and toys all cost Apples — a healthy balance means no child goes without."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Apple Guides"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "family": {
+      "title": "Raise The Biggest Family Family Go",
+      "description": "Family Go mode explained: how to unlock it, what rewards it pays, and which family upgrades grow your capacity the fastest.",
+      "metaTitle": "Raise The Biggest Family Family Go - Unlocks, Rewards & Upgrades",
+      "metaDescription": "Master Family Go in Raise The Biggest Family: unlock steps, reward list, family upgrades, and how to increase your family capacity.",
+      "categoryLabel": "FAMILY GO",
+      "whatIs": "What Is Family Go?",
+      "whatIsDescription": "Family Go is the featured mode of Raise The Biggest Family. It takes your family out into new activities, pays bonus rewards, and ties into the upgrades that raise how many children your household can hold.",
+      "why": "Why Master Family Go?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Unlock It Early",
+        "step1Description": "Family Go has simple unlock steps — reaching them early opens a second income stream on top of daily tasks.",
+        "step2Title": "Collect Bonus Rewards",
+        "step2Description": "Family Go payouts stack with your normal earnings, speeding up every upgrade on your list.",
+        "step3Title": "Raise Your Capacity",
+        "step3Description": "Family upgrades increase how many kids you can raise at once — the direct path to the biggest family."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Family Go Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "codes": {
+      "title": "Raise The Biggest Family Codes",
+      "description": "Your hub for Raise The Biggest Family codes: how redemption works, where new codes are announced first, and free rewards you can claim today.",
+      "metaTitle": "Raise The Biggest Family Codes - Rewards & How to Redeem",
+      "metaDescription": "Track Raise The Biggest Family codes: how the in-game redemption system works, where codes drop first, and the free rewards you can claim right now.",
+      "categoryLabel": "CODES",
+      "whatIs": "What Are Codes?",
+      "whatIsDescription": "Codes are official gift phrases released by the developers of Raise The Biggest Family that trade for free in-game rewards. This hub explains how redemption works and collects every confirmed code the moment it goes live.",
+      "why": "Why Watch for Codes?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Free Rewards, Zero Cost",
+        "step1Description": "Codes hand out Apples and boosts without any grinding, a free head start every time one drops.",
+        "step2Title": "Know the Moment They Land",
+        "step2Description": "New codes appear through the game description and official channels — this page keeps pace with every announcement.",
+        "step3Title": "Claim Alternative Rewards Today",
+        "step3Description": "While you wait, daily bonuses, tasks, and Family Go pay steady free rewards you can bank right now."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Code Guides"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "houses": {
+      "title": "Raise The Biggest Family Houses",
+      "description": "House guides for Raise The Biggest Family: how to build, upgrade, and plan space so every child in your growing family has a room.",
+      "metaTitle": "Raise The Biggest Family Houses - Builds, Upgrades & Space Planning",
+      "metaDescription": "Build and upgrade houses in Raise The Biggest Family: construction steps, upgrade paths, and the best house setup for large families.",
+      "categoryLabel": "HOUSES",
+      "whatIs": "What Is the House System?",
+      "whatIsDescription": "Houses are your family's home base in Raise The Biggest Family. Bigger houses hold more beds, which raises the number of children you can adopt and keeps every kid cared for under one roof.",
+      "why": "Why Upgrade Your House?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Room for Every Child",
+        "step1Description": "Adoption requirements check bed space — house upgrades are the gate to a bigger family.",
+        "step2Title": "Unlock Better Upgrades",
+        "step2Description": "Each house tier opens new upgrades that speed up care routines and daily earnings.",
+        "step3Title": "Plan for Large Families",
+        "step3Description": "Smart layouts keep feeding and bathing routes short, even with a full house of kids."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All House Guides"
+    },
+    "updates": {
+      "title": "Raise The Biggest Family Updates",
+      "description": "Every Raise The Biggest Family update in one place: new features, the latest patch details, and what is coming next to the game.",
+      "metaTitle": "Raise The Biggest Family Updates - New Features & Patch News",
+      "metaDescription": "Stay current on Raise The Biggest Family: new features, latest update details, upcoming content, and what each change means for your family.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What Are Updates?",
+      "whatIsDescription": "Updates are the regular content drops for Raise The Biggest Family from developers Novkod and Level0Expert. New features, seasonal events, and balance changes all land here first — and each one can change how you plan your family.",
+      "why": "Why Track Updates?",
+      "whySteps": {
+        "step1Title": "Adapt Before Everyone Else",
+        "step1Description": "New features reshape the fastest routes to Apples and family size — early adopters gain the most.",
+        "step2Title": "Never Miss an Event",
+        "step2Description": "Limited events and rewards are announced through updates, and missing them means missing free content.",
+        "step3Title": "Plan Around What's Next",
+        "step3Description": "Upcoming features tell you which upgrades to save Apples for, so big changes never catch you off guard."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Update Guides"
     }
   }
 }

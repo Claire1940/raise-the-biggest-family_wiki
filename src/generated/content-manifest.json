@@ -1,3 +1,578 @@
 {
-  "en": {}
+  "en": {
+    "adoption": [
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-guide",
+        "file": "Raise-The-Biggest-Family-adoption-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-requirements",
+        "file": "Raise-The-Biggest-Family-adoption-requirements"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-size-limit",
+        "file": "Raise-The-Biggest-Family-family-size-limit"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt-more-children",
+        "file": "Raise-The-Biggest-Family-how-to-adopt-more-children"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt",
+        "file": "Raise-The-Biggest-Family-how-to-adopt"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-more-kids",
+        "file": "Raise-The-Biggest-Family-how-to-get-more-kids"
+      }
+    ],
+    "apples": [
+      {
+        "slug": "Raise-The-Biggest-Family-apple-farming-guide",
+        "file": "Raise-The-Biggest-Family-apple-farming-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-best-ways-to-spend-apples",
+        "file": "Raise-The-Biggest-Family-best-ways-to-spend-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-earn-apples-fast",
+        "file": "Raise-The-Biggest-Family-how-to-earn-apples-fast"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-apples",
+        "file": "Raise-The-Biggest-Family-how-to-get-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-what-are-apples-used-for",
+        "file": "Raise-The-Biggest-Family-what-are-apples-used-for"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Raise-The-Biggest-Family-codes",
+        "file": "Raise-The-Biggest-Family-codes"
+      }
+    ],
+    "family": [
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-mode",
+        "file": "Raise-The-Biggest-Family-family-go-mode"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-rewards",
+        "file": "Raise-The-Biggest-Family-family-go-rewards"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-upgrades",
+        "file": "Raise-The-Biggest-Family-family-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-increase-family-capacity",
+        "file": "Raise-The-Biggest-Family-how-to-increase-family-capacity"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-unlock-family-go",
+        "file": "Raise-The-Biggest-Family-how-to-unlock-family-go"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Raise-The-Biggest-Family-beginner-guide",
+        "file": "Raise-The-Biggest-Family-beginner-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-family",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-grow-your-family",
+        "file": "Raise-The-Biggest-Family-how-to-grow-your-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-play",
+        "file": "Raise-The-Biggest-Family-how-to-play"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-progression-guide",
+        "file": "Raise-The-Biggest-Family-progression-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-tips-and-tricks",
+        "file": "Raise-The-Biggest-Family-tips-and-tricks"
+      }
+    ],
+    "houses": [
+      {
+        "slug": "Raise-The-Biggest-Family-best-house-for-large-families",
+        "file": "Raise-The-Biggest-Family-best-house-for-large-families"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-guide",
+        "file": "Raise-The-Biggest-Family-house-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-upgrades",
+        "file": "Raise-The-Biggest-Family-house-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-build-a-house",
+        "file": "Raise-The-Biggest-Family-how-to-build-a-house"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-house",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-house"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Raise-The-Biggest-Family-latest-update",
+        "file": "Raise-The-Biggest-Family-latest-update"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-new-features",
+        "file": "Raise-The-Biggest-Family-new-features"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-upcoming-updates",
+        "file": "Raise-The-Biggest-Family-upcoming-updates"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-update",
+        "file": "Raise-The-Biggest-Family-update"
+      }
+    ]
+  },
+  "es": {
+    "adoption": [
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-guide",
+        "file": "Raise-The-Biggest-Family-adoption-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-requirements",
+        "file": "Raise-The-Biggest-Family-adoption-requirements"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-size-limit",
+        "file": "Raise-The-Biggest-Family-family-size-limit"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt-more-children",
+        "file": "Raise-The-Biggest-Family-how-to-adopt-more-children"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt",
+        "file": "Raise-The-Biggest-Family-how-to-adopt"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-more-kids",
+        "file": "Raise-The-Biggest-Family-how-to-get-more-kids"
+      }
+    ],
+    "apples": [
+      {
+        "slug": "Raise-The-Biggest-Family-apple-farming-guide",
+        "file": "Raise-The-Biggest-Family-apple-farming-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-best-ways-to-spend-apples",
+        "file": "Raise-The-Biggest-Family-best-ways-to-spend-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-earn-apples-fast",
+        "file": "Raise-The-Biggest-Family-how-to-earn-apples-fast"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-apples",
+        "file": "Raise-The-Biggest-Family-how-to-get-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-what-are-apples-used-for",
+        "file": "Raise-The-Biggest-Family-what-are-apples-used-for"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Raise-The-Biggest-Family-codes",
+        "file": "Raise-The-Biggest-Family-codes"
+      }
+    ],
+    "family": [
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-mode",
+        "file": "Raise-The-Biggest-Family-family-go-mode"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-rewards",
+        "file": "Raise-The-Biggest-Family-family-go-rewards"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-upgrades",
+        "file": "Raise-The-Biggest-Family-family-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-increase-family-capacity",
+        "file": "Raise-The-Biggest-Family-how-to-increase-family-capacity"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-unlock-family-go",
+        "file": "Raise-The-Biggest-Family-how-to-unlock-family-go"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Raise-The-Biggest-Family-beginner-guide",
+        "file": "Raise-The-Biggest-Family-beginner-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-family",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-grow-your-family",
+        "file": "Raise-The-Biggest-Family-how-to-grow-your-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-play",
+        "file": "Raise-The-Biggest-Family-how-to-play"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-progression-guide",
+        "file": "Raise-The-Biggest-Family-progression-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-tips-and-tricks",
+        "file": "Raise-The-Biggest-Family-tips-and-tricks"
+      }
+    ],
+    "houses": [
+      {
+        "slug": "Raise-The-Biggest-Family-best-house-for-large-families",
+        "file": "Raise-The-Biggest-Family-best-house-for-large-families"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-guide",
+        "file": "Raise-The-Biggest-Family-house-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-upgrades",
+        "file": "Raise-The-Biggest-Family-house-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-build-a-house",
+        "file": "Raise-The-Biggest-Family-how-to-build-a-house"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-house",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-house"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Raise-The-Biggest-Family-latest-update",
+        "file": "Raise-The-Biggest-Family-latest-update"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-new-features",
+        "file": "Raise-The-Biggest-Family-new-features"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-upcoming-updates",
+        "file": "Raise-The-Biggest-Family-upcoming-updates"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-update",
+        "file": "Raise-The-Biggest-Family-update"
+      }
+    ]
+  },
+  "fr": {
+    "adoption": [
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-guide",
+        "file": "Raise-The-Biggest-Family-adoption-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-requirements",
+        "file": "Raise-The-Biggest-Family-adoption-requirements"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-size-limit",
+        "file": "Raise-The-Biggest-Family-family-size-limit"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt-more-children",
+        "file": "Raise-The-Biggest-Family-how-to-adopt-more-children"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt",
+        "file": "Raise-The-Biggest-Family-how-to-adopt"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-more-kids",
+        "file": "Raise-The-Biggest-Family-how-to-get-more-kids"
+      }
+    ],
+    "apples": [
+      {
+        "slug": "Raise-The-Biggest-Family-apple-farming-guide",
+        "file": "Raise-The-Biggest-Family-apple-farming-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-best-ways-to-spend-apples",
+        "file": "Raise-The-Biggest-Family-best-ways-to-spend-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-earn-apples-fast",
+        "file": "Raise-The-Biggest-Family-how-to-earn-apples-fast"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-apples",
+        "file": "Raise-The-Biggest-Family-how-to-get-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-what-are-apples-used-for",
+        "file": "Raise-The-Biggest-Family-what-are-apples-used-for"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Raise-The-Biggest-Family-codes",
+        "file": "Raise-The-Biggest-Family-codes"
+      }
+    ],
+    "family": [
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-mode",
+        "file": "Raise-The-Biggest-Family-family-go-mode"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-rewards",
+        "file": "Raise-The-Biggest-Family-family-go-rewards"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-upgrades",
+        "file": "Raise-The-Biggest-Family-family-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-increase-family-capacity",
+        "file": "Raise-The-Biggest-Family-how-to-increase-family-capacity"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-unlock-family-go",
+        "file": "Raise-The-Biggest-Family-how-to-unlock-family-go"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Raise-The-Biggest-Family-beginner-guide",
+        "file": "Raise-The-Biggest-Family-beginner-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-family",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-grow-your-family",
+        "file": "Raise-The-Biggest-Family-how-to-grow-your-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-play",
+        "file": "Raise-The-Biggest-Family-how-to-play"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-progression-guide",
+        "file": "Raise-The-Biggest-Family-progression-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-tips-and-tricks",
+        "file": "Raise-The-Biggest-Family-tips-and-tricks"
+      }
+    ],
+    "houses": [
+      {
+        "slug": "Raise-The-Biggest-Family-best-house-for-large-families",
+        "file": "Raise-The-Biggest-Family-best-house-for-large-families"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-guide",
+        "file": "Raise-The-Biggest-Family-house-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-upgrades",
+        "file": "Raise-The-Biggest-Family-house-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-build-a-house",
+        "file": "Raise-The-Biggest-Family-how-to-build-a-house"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-house",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-house"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Raise-The-Biggest-Family-latest-update",
+        "file": "Raise-The-Biggest-Family-latest-update"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-new-features",
+        "file": "Raise-The-Biggest-Family-new-features"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-upcoming-updates",
+        "file": "Raise-The-Biggest-Family-upcoming-updates"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-update",
+        "file": "Raise-The-Biggest-Family-update"
+      }
+    ]
+  },
+  "pt": {
+    "adoption": [
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-guide",
+        "file": "Raise-The-Biggest-Family-adoption-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-adoption-requirements",
+        "file": "Raise-The-Biggest-Family-adoption-requirements"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-size-limit",
+        "file": "Raise-The-Biggest-Family-family-size-limit"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt-more-children",
+        "file": "Raise-The-Biggest-Family-how-to-adopt-more-children"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-adopt",
+        "file": "Raise-The-Biggest-Family-how-to-adopt"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-more-kids",
+        "file": "Raise-The-Biggest-Family-how-to-get-more-kids"
+      }
+    ],
+    "apples": [
+      {
+        "slug": "Raise-The-Biggest-Family-apple-farming-guide",
+        "file": "Raise-The-Biggest-Family-apple-farming-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-best-ways-to-spend-apples",
+        "file": "Raise-The-Biggest-Family-best-ways-to-spend-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-earn-apples-fast",
+        "file": "Raise-The-Biggest-Family-how-to-earn-apples-fast"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-apples",
+        "file": "Raise-The-Biggest-Family-how-to-get-apples"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-what-are-apples-used-for",
+        "file": "Raise-The-Biggest-Family-what-are-apples-used-for"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Raise-The-Biggest-Family-codes",
+        "file": "Raise-The-Biggest-Family-codes"
+      }
+    ],
+    "family": [
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-mode",
+        "file": "Raise-The-Biggest-Family-family-go-mode"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-go-rewards",
+        "file": "Raise-The-Biggest-Family-family-go-rewards"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-family-upgrades",
+        "file": "Raise-The-Biggest-Family-family-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-increase-family-capacity",
+        "file": "Raise-The-Biggest-Family-how-to-increase-family-capacity"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-unlock-family-go",
+        "file": "Raise-The-Biggest-Family-how-to-unlock-family-go"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Raise-The-Biggest-Family-beginner-guide",
+        "file": "Raise-The-Biggest-Family-beginner-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-family",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-grow-your-family",
+        "file": "Raise-The-Biggest-Family-how-to-grow-your-family"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-play",
+        "file": "Raise-The-Biggest-Family-how-to-play"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-progression-guide",
+        "file": "Raise-The-Biggest-Family-progression-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-tips-and-tricks",
+        "file": "Raise-The-Biggest-Family-tips-and-tricks"
+      }
+    ],
+    "houses": [
+      {
+        "slug": "Raise-The-Biggest-Family-best-house-for-large-families",
+        "file": "Raise-The-Biggest-Family-best-house-for-large-families"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-guide",
+        "file": "Raise-The-Biggest-Family-house-guide"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-house-upgrades",
+        "file": "Raise-The-Biggest-Family-house-upgrades"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-build-a-house",
+        "file": "Raise-The-Biggest-Family-how-to-build-a-house"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-how-to-get-a-bigger-house",
+        "file": "Raise-The-Biggest-Family-how-to-get-a-bigger-house"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "Raise-The-Biggest-Family-latest-update",
+        "file": "Raise-The-Biggest-Family-latest-update"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-new-features",
+        "file": "Raise-The-Biggest-Family-new-features"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-upcoming-updates",
+        "file": "Raise-The-Biggest-Family-upcoming-updates"
+      },
+      {
+        "slug": "Raise-The-Biggest-Family-update",
+        "file": "Raise-The-Biggest-Family-update"
+      }
+    ]
+  }
 }
